@@ -46,7 +46,7 @@ export const projects = [
   {
     img: "https://github.com/Sayli555/project-images/blob/master/tictacktow.png?raw=true",
     title: "Tic-Tac-Tow Game",
-    des: "This is the game ",
+    des: "This is the Tic-Tac-Tow game ",
     demo: "",
     live: "https://tic-tac-tow.vercel.app/",
     gitHub: "https://github.com/Sayli555/tic-tac-tow",
