@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fas fa-phone-alt" />
           </a>
           <a
-            href="https://mail.google.com/mail/u/0/#inbox"
+            href="mailto:sayligiri555@gmail.com"
             aria-label="email"
             target="_blank"
             rel="noreferrer"
@@ -50,7 +50,7 @@ const Contact = () => {
             <i className="far fa-envelope"></i>
           </a>
           <a
-            href="https://twitter.com/giri_sayli"
+            href="https://twitter.com/Sayli_Giri"
             aria-label="Twitter"
             target="_blank"
             rel="noreferrer"

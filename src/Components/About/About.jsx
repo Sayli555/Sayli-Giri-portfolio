@@ -30,16 +30,11 @@ const About = () => {
         </h1>
         <div className={styles.borderBottom} />
         <p style={{ color: `${newTheme.para}` }} className={styles.aboutMe}>
-          Hello! My name is Sayli Giri and I enjoy creating things that live on
-          the internet. My interest in web development started back last year
-          when I was trying to edit things on the web — taught me a lot about
-          HTML & CSS!. <br />
-          <br /> Fast Forwarding to today, I built a number of web applications
-          and  major projects. Learned a great deal about teamwork, leadership,
-          and communication. After months of rigorous training, here I am
+        Greetings! I'm Sayli Giri, a web developer passionate about crafting digital experiences. With a solid foundation in HTML & CSS, my journey evolved into building diverse web applications and major projects over the past two years.  <br />
+          <br /> Through this experience, I've honed my skills in backend development and gained proficiency in React and Redux. Eager to leverage my expertise, teamwork, and communication skills,
           <span style={{ color: `#00a0a0` }}>
             {" "}
-            looking for an opportunity as a full stack web developer
+            I'm now seeking opportunities as a full-stack web developer. Let's bring innovative ideas to life!
           </span>
           .
         </p>

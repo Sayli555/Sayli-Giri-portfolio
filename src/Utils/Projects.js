@@ -9,17 +9,17 @@ export const projects = [
     gitHub: "https://github.com/Sayli555/e-shop",
     technologies: ["React", "Redux", "HTML","Javascript","CSS"],
   },
-  {
+  // {
 
 
-    img: "https://user-images.githubusercontent.com/97591028/180641416-56175994-d677-4ca7-9a16-f4063fa30ed0.png",
-    title: "HubSpot Clone",
-    des: "This is the clone of HubSpot website. HubSpot is a marketing , sales and customer service platform that helps companies grow better.. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
-    demo: "",
-    live: "https://leafy-moxie-ee6b4e.netlify.app/",
-    gitHub: "https://github.com/optimizershivam/Hubspot-clone",
-    technologies: ["React", "Redux", "Chakra UI","Javascript","CSS"],
-  },
+  //   img: "https://user-images.githubusercontent.com/97591028/180641416-56175994-d677-4ca7-9a16-f4063fa30ed0.png",
+  //   title: "HubSpot Clone",
+  //   des: "This is the clone of HubSpot website. HubSpot is a marketing , sales and customer service platform that helps companies grow better.. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
+  //   demo: "",
+  //   live: "https://leafy-moxie-ee6b4e.netlify.app/",
+  //   gitHub: "https://github.com/optimizershivam/Hubspot-clone",
+  //   technologies: ["React", "Redux", "Chakra UI","Javascript","CSS"],
+  // },
   {
     img: "https://github.com/sahilshekh/project-photos/blob/master/photos/jio-mart.png?raw=true",
     title: "JioMart Clone",
@@ -79,14 +79,14 @@ export const projects = [
     gitHub: "https://github.com/Sayli555/purple-clone",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
-  {
-    img: "https://miro.medium.com/max/1400/0*_a0kLpcnLpnrWlHB.png",
-    title: "Credo Clone",
-    des: "This is the clone of Credo website. A web application to buy skincare and makeup products. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
-    demo: "",
-    live: "https://westside-ecommerce-clone.vercel.app/",
-    gitHub: "https://github.com/Sayli555/credo-clone/",
-    technologies: ["HTML", "CSS", "JavaScript","NodeJS","ExpressJS","MongoDB"],
-  },
+  // {
+  //   img: "https://miro.medium.com/max/1400/0*_a0kLpcnLpnrWlHB.png",
+  //   title: "Credo Clone",
+  //   des: "This is the clone of Credo website. A web application to buy skincare and makeup products. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
+  //   demo: "",
+  //   live: "https://westside-ecommerce-clone.vercel.app/",
+  //   gitHub: "https://github.com/Sayli555/credo-clone/",
+  //   technologies: ["HTML", "CSS", "JavaScript","NodeJS","ExpressJS","MongoDB"],
+  // },
  
 ];
