@@ -30,7 +30,7 @@ const About = () => {
         </h1>
         <div className={styles.borderBottom} />
         <p style={{ color: `${newTheme.para}` }} className={styles.aboutMe}>
-        Greetings! I'm Sayli Giri, a web developer passionate about crafting digital experiences. With a solid foundation in HTML & CSS, my journey evolved into building diverse web applications and major projects over the past two years.  <br />
+        Greetings! I'm Sayli Giri, a web developer passionate about crafting digital experiences. With a solid foundation in HTML & CSS, my journey evolved into building diverse web applications and major projects over the past 1+ years.  <br />
           <br /> Through this experience, I've honed my skills in backend development and gained proficiency in React and Redux. Eager to leverage my expertise, teamwork, and communication skills,
           <span style={{ color: `#00a0a0` }}>
             {" "}

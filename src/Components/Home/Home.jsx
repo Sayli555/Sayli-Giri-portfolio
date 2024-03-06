@@ -6,6 +6,7 @@ import TechStacks from "../TechStacks/TechStacks";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import img1 from "../../assets/my_photo.jpg";
+import pdf from "../../assets/SayaliGiriResume.pdf";
 import { Button } from "../Button/Button";
 import About from "../About/About";
 import { projects } from "../../Utils/Projects";
@@ -74,9 +75,10 @@ const Home = ({ scrollRef }) => {
           <h1>I am a Full Stack Web Developer.</h1>
           <div className={styles.btn}>
             <a
-              href="https://drive.google.com/drive/u/0/folders/1dPw2fQvqKHn_NatraxiaFfRlqEU3hK6v"
+              href={pdf}
+              download={"Sayali-Giri-Resume.pdf"}
               target="_blank"
-              rel="noreferrer"
+              // rel="noreferrer"
             >
               <Button
                 text={
@@ -88,6 +90,8 @@ const Home = ({ scrollRef }) => {
                 handleButton={handleButton}
               />
             </a>
+
+{/* <a href="your_resume_file.pdf" download="your_resume_filename.pdf">Download Resume</a> */}
           </div>
 
 
