@@ -36,7 +36,9 @@ const Home = ({ scrollRef }) => {
     document.body.style.backgroundColor = newTheme.background;
   }, [newTheme]);
 
-  const handleButton = () => {};
+  const handleButton = () => {
+    window.open("https://drive.google.com/file/d/1Ae_ESkCvjIlJgjEhvOghe1TbEKRai6xV/view?usp=sharing")
+  };
 
   console.log(offset);
   const handleShowMoreBtn = () => {
@@ -78,7 +80,7 @@ const Home = ({ scrollRef }) => {
               href={pdf}
               download={"Sayali-Giri-Resume.pdf"}
               target="_blank"
-              // rel="noreferrer"
+              rel="noreferrer"
             >
               <Button
                 text={
