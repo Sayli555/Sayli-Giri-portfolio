@@ -59,7 +59,7 @@ const SideIcons = () => {
 					</li>
 					<li>
 						<a
-							href='https://www.instagram.com/sayli.developer/'
+							href='https://www.instagram.com/saylii555/'
 							aria-label='Instagram'
 							target='_blank'
 							rel='noreferrer'
@@ -90,7 +90,7 @@ const SideIcons = () => {
 					</li>
 					<li>
 						<a
-							href='https://twitter.com/giri_sayli'
+							href='https://twitter.com/Sayli_Giri'
 							aria-label='Twitter'
 							target='_blank'
 							rel='noreferrer'
